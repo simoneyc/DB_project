@@ -5,3 +5,14 @@ Tool:
 * tkinter
 
 * pymysql
+
+* 此GUI介面控制後端資料庫含有四個功能:
+  
+  * select
+    
+  * insert
+    
+  * delete
+    
+  * update
+
