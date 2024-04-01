@@ -5,7 +5,7 @@ My database final project:
     
 <div>
   Function:
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RtcWxrOXd3b25zYm04aTZ5OGE1Z3lsNzIycTNqbTE5OGx4M3drbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KCLXANhQaSANa95u26/giphy.gif" width="300"/>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RtcWxrOXd3b25zYm04aTZ5OGE1Z3lsNzIycTNqbTE5OGx4M3drbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KCLXANhQaSANa95u26/giphy.gif" width="200"/>
 </div>
 
 
